@@ -10,13 +10,13 @@
             text-align: center;
         }
         
-        .navbar ul {
+        .nav-links ul {
             list-style: none;
             padding: 0;
             margin: 0;
         }
         
-        .navbar ul li {
+        .nav-links ul li {
             display: inline-block;
             margin: 0 15px;
         }
